@@ -1,4 +1,5 @@
 # Quiz plugin for CakePHP
+Moteur de questionnaire pour cake
 
 ## Installation
 
@@ -7,5 +8,5 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require your-name-here/Quiz
+composer require orken/cakephp3-quiz
 ```
